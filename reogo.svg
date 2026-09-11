@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 40" role="img" aria-label="Fixfie">
+  <title>Fixfie</title>
+  <g fill="none" fill-rule="evenodd">
+    <rect x="0" y="4" width="32" height="32" rx="2" fill="#C4A574"/>
+    <path fill="#0C0C0B" d="M10 12h14v3.2H14.6V19h8.2v3.1h-8.2v5.9H10z"/>
+    <text x="44" y="27.5" fill="#F4F0E8" font-family="Satoshi, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="-0.04em">Fixfie</text>
+  </g>
+</svg>
